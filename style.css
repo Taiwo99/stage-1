@@ -45,14 +45,14 @@ main{
   padding: 8px;
 }
 .color-content{
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   text-align: center;
   width: 100%;
   margin-bottom: 10px;
 }
 .header-opt{
   width: 100%;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   text-align: center;
   display: flex;
   align-items: center;
@@ -60,7 +60,7 @@ main{
  margin-bottom: 5px;
 }
 .again{
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   padding: 4px 8px;
   border-radius: 5px;
   border: none;
@@ -81,7 +81,7 @@ main{
   flex-wrap: wrap;
   gap: 10px;
   /* align-items: center; */
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding: 20px;
 }
 .color-option {
@@ -102,7 +102,7 @@ main{
     margin: 3px;
   }
   .container{
-   max-width: 100%;
+   width: 100%;
   }
 
 }
